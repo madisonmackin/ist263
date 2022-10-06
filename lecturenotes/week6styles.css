@@ -1,0 +1,15 @@
+p,h1 {
+    color:midnightblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+    font-weight: 900;
+}
+p a {
+    color:cyan;
+}
+#firstbullet {
+    color:deepskyblue;
+}
+.pinktext {
+    color: pink;
+}

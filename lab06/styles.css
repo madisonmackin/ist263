@@ -1,0 +1,15 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1, h2 {
+    color:deeppink;
+}
+.evenrow{
+    color:moccasin;
+}
+h1{
+    font-weight: 1em;
+}
+h2{
+    font-weight: .5em;
+}
