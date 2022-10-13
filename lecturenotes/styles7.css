@@ -1,0 +1,20 @@
+p {
+    color: #a0a6e8;
+    background-color: #f2bde4;
+    
+}
+a:visited{
+    color: #eb4034;
+}
+a:hover{
+    color:#b042f5;
+}
+body{
+    background-color: #c4f4f5;
+}
+
+.second {
+    border: 2px solid #eb4034;
+    padding: 10px;
+    margin:20px;
+}
