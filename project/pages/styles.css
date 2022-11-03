@@ -1,0 +1,8 @@
+.toppage{
+    display:flex;
+    flex:1;
+    margin: 5px;
+    justify-content: space-around;
+    background-color: aqua;
+    border-radius: 5em;
+}
