@@ -3,6 +3,20 @@
     flex:1;
     margin: 5px;
     justify-content: space-around;
-    background-color: aqua;
-    border-radius: 5em;
+}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #c7dad4;
+    color: #2f414f;
+}
+.ptostay{
+    display: flex;
+    flex:1;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.bottompics{
+    display: flex;
+    justify-content: space-around;
 }
